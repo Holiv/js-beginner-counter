@@ -1,4 +1,4 @@
-## Counter
+## Counter (confira <a href="https://holiv.github.io/js-beginner-counter/">aqui</a>)
 
 ### Criação de um contador utilizando JavaScript
 
